@@ -13,16 +13,16 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    info = "Full Stack DevOps and Magician"
-    description = "John Doe's personal website"
-    keywords = "blog,developer,personal"
-    avatarurl = "images/avatar.jpg"
+    author = "Jimmy Chen"
+    info = "Data Engineer and Traveler"
+    description = "Jimmy Chen's personal website"
+    keywords = "blog, developer, personal"
+    avatarurl = "images/weijchen.jpg"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Enter a text here."
+    footercontent = "Stay foolish, stay hungry"
 
     hidecredits = false
     hidecopyright = false
@@ -34,20 +34,31 @@ disqusShortname = "yourdiscussshortname"
 
 # Social links
 [[params.social]]
+    name = "CV"
+    icon = "fas fa-user-tie fa-2x"
+    url = "/docs/cv-jimmyweicc.pdf"
+    weight = 1
+[[params.social]]
     name = "Github"
     icon = "fab fa-github fa-2x"
-    weight = 1
-    url = "https://github.com/johndoe/"
+    weight = 2
+    url = "https://github.com/weijchen/"
 [[params.social]]
     name = "Gitlab"
     icon = "fab fa-gitlab fa-2x"
-    weight = 2
-    url = "https://gitlab.com/johndoe/"
+    weight = 3
+    url = "https://gitlab.com/weijchen?nav_source=navbar"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
-    weight = 3
-    url = "https://twitter.com/johndoe/"
+    weight = 4
+    url = "https://twitter.com/weijchen0919/"
+[[params.social]]
+    name = "Facebook"
+    icon = "fab fa-facebook fa-2x"
+    weight = 5
+    url = "https://www.facebook.com/weijchen2013/"
+
 
 # Menu links
 [[menu.main]]
@@ -58,3 +69,7 @@ disqusShortname = "yourdiscussshortname"
     name = "About"
     weight = 2
     url = "/about/"
+[[menu.main]]
+    name = "Publication"
+    weight = 3
+    url = "/publication/"
