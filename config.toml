@@ -1,6 +1,6 @@
-baseURL = "https://pages.github.com/user/project/"
+baseURL = "/"
 languageCode = "zh-tw"
-title = "weijchen123"
+title = "weijchen"
 theme = "hugo-coder"
 
 paginate = 20
