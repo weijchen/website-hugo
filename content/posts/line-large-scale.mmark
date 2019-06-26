@@ -92,3 +92,6 @@ MathJax.Hub.Queue(function() {
 * LINE: Large-scale Information Network Embedding - https://arxiv.org/abs/1503.03578
 * Negative sampling - https://python5566.wordpress.com/2018/03/17/nlp-%E7%AD%86%E8%A8%98-negative-sampling/
 * Alias method - https://blog.csdn.net/haolexiao/article/details/65157026
+
+## Github
+* https://github.com/weijchen/paper-note/blob/master/graph/LINE_%20Large-scale%20Information%20Network%20Embedding.md
