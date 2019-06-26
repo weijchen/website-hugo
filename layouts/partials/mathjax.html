@@ -1,12 +1,10 @@
-<!-- <script type="text/javascript"
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-
-<script type="text/x-mathjax-config">
+<script type="text/javascript"
+        async
+        src="https://cdn.bootcss.com/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 MathJax.Hub.Config({
   tex2jax: {
     inlineMath: [['$','$'], ['\\(','\\)']],
-    displayMath: [['$$','$$'], ['\[','\]']],
+    displayMath: [['$$','$$'], ['\[\[','\]\]']],
     processEscapes: true,
     processEnvironments: true,
     skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
@@ -14,10 +12,8 @@ MathJax.Hub.Config({
          extensions: ["AMSmath.js", "AMSsymbols.js"] }
   }
 });
-</script>
 
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Queue(function() {
+MathJax.Hub.Queue(function() {
     // Fix <code> tags after MathJax finishes running. This is a
     // hack to overcome a shortcoming of Markdown. Discussion at
     // https://github.com/mojombo/jekyll/issues/199
@@ -26,6 +22,17 @@ MathJax.Hub.Config({
         all[i].SourceElement().parentNode.className += ' has-jax';
     }
 });
-</script> -->
+</script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_SVG"></script>
+<style>
+code.has-jax {
+    font: inherit;
+    font-size: 100%;
+    background: inherit;
+    border: inherit;
+    color: #515151;
+}
+</style>
+
+
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_SVG"></script> -->
