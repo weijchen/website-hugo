@@ -3,6 +3,9 @@
     {{ with .Site.Params.footercontent | safeHTML }}
       <p>{{.}}</p>
     {{ end }}
+    <!-- Start of RevolverMaps Code -->
+    <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5isztri7isp&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=2&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+    <!-- End of RevolverMaps Code -->
     {{ if not .Site.Params.hideCopyright }} © {{ now.Format "2006" }}{{ end }}
     {{ if not .Site.Params.hideCredits }}
       {{ if not .Site.Params.hideCopyright }} · {{ end }}
@@ -15,7 +18,7 @@
   </section>
   <div>
     <!-- Start of CuterCounter Code -->
-    <a href="https://www.cutercounter.com/" target="_blank"><img src="https://www.cutercounter.com/hits.php?id=gvuqdoqq&nd=6&style=1" border="0" alt="free counter"></a>
+    <!-- <a href="https://www.cutercounter.com/" target="_blank"><img src="https://www.cutercounter.com/hits.php?id=gvuqdoqq&nd=6&style=1" border="0" alt="free counter"></a> -->
     <!-- End of CuterCounter Code -->
   </div>
   {{ partial "mathjax.html" . }}
