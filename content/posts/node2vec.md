@@ -1,7 +1,7 @@
 +++ 
 draft = true
 date = 2019-06-27T11:15:13+08:00
-title = "node2vec: Scalable Feature Learning for Networks"
+title = "Paper node: node2vec: Scalable Feature Learning for Networks"
 description = ""
 slug = "" 
 tags = ['paper-note', 'graph']
@@ -33,10 +33,8 @@ series = []
         * Symmetry in feature space: source node and neighborhood node have a symmetric effect over each other (對稱性的相互影響) in feature space. -> use a softmax unit: `$$Pr(n_i|f(u)) = \frac{\exp{(f(n_i)\cdot f(u))}}{\sum_{v \in V}\exp{(f(v)\cdot f(u))}}$$`
     * 最後的 objective function: `$$\max\limits_{f} \sum_{u \in V}\bigg[-\log Z_u + \sum_{n_i \in N_S(u)}f(n_i) \cdot f(u)\bigg]$$`
 
-
 * 本文主要觀念：將 BFS, DFS, RandomWalk 進行了一定程度的融合，藉以抽取圖結構的內容相似性 (homophily) 以及結構相似性 (structural) 特徵
-![](https://i.imgur.com/CkSXARs.png)
-    
+    * ![](https://i.imgur.com/CkSXARs.png)
     * Homophily: node 之間是高度連結的，且構成了同一個 network cluster, looking for macro-view (容易找到週遭的點集)
     * Structual: 有相似網絡結構 (structural role) 的 node 會有相似的 embedding, looking for micro-view (容易到遠處找點集)
 
@@ -46,11 +44,11 @@ series = []
         * p: 控制 revisit 的情形
         * q: 用來區分 "inward", "outward" 的 nodes
     * walk traverse 到 node `$v$` 時，transition probabilities on edges (v, x): `$\pi_{vx} = \alpha_{pq}(t, x) \cdot w_{vx}$`，其中 `$$\alpha_{pq}(t, x) = \begin{cases} \frac{1}{p} & \text{if } d_{tx} = 0\\ 1,          & \text{if } d_{tx} = 1\\ \frac{1}{q} & \text{if } d_{tx} = 2\\ \end{cases}$$`
-![](https://i.imgur.com/6JGTudP.png) 
-        * walk 剛從 `$t$` 走到 `$v$`，此時有三個選擇 
-            1) 回 `$t$`
-            2) 到離 `$t$` 距離 1的點 (`$x_1$`)
-            3) 到離 `$t$` 距離 2 的點 (`$x_2, x_3$`)
+    * ![](https://i.imgur.com/6JGTudP.png) 
+        * walk 剛從 `$t$` 走到 `$v$`，此時有三個選擇:
+            1. 回 `$t$`
+            2. 到離 `$t$` 距離 1的點 (`$x_1$`)
+            3. 到離 `$t$` 距離 2 的點 (`$x_2, x_3$`)
 
 ### 評估方式
 * Multi-label classification
