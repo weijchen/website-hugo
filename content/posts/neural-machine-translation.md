@@ -8,7 +8,6 @@ tags = ['paper-note', 'attention']
 categories = ['paper-note']
 externalLink = ""
 series = []
-markup = "mmark"
 +++
 
 # Neural Machine Translation by Jointly Learning to Align and Translate
