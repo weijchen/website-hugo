@@ -1,0 +1,75 @@
+baseURL = "/"
+languageCode = "zh-tw"
+title = "weijchen"
+theme = "hugo-coder"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Jimmy Chen"
+    info = "Data Engineer and Activist"
+    description = "Jimmy Chen's personal website"
+    keywords = "blog, developer, personal"
+    avatarurl = "images/weijchen.jpg"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = "Stay Hungry, Stay Foolish"
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "CV"
+    icon = "fas fa-user-tie fa-2x"
+    url = "/docs/cv-jimmyweicc.pdf"
+    weight = 1
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 2
+    url = "https://github.com/weijchen/"
+[[params.social]]
+    name = "Gitlab"
+    icon = "fab fa-gitlab fa-2x"
+    weight = 3
+    url = "https://gitlab.com/weijchen?nav_source=navbar"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 4
+    url = "https://twitter.com/weijchen0919/"
+[[params.social]]
+    name = "Facebook"
+    icon = "fab fa-facebook fa-2x"
+    weight = 5
+    url = "https://www.facebook.com/weijchen2013/"
+
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about"
+[[menu.main]]
+    name = "Publication"
+    weight = 3
+    url = "/publication/"
