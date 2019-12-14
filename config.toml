@@ -14,7 +14,7 @@ disqusShortname = "yourdiscussshortname"
 
 
 [params]
-    author = "Jimmy Chen"
+    author = "Jimmy Chen (Wei-Cheng)"
     info = "Data Engineer and Activist"
     description = "Jimmy Chen's personal website"
     keywords = "blog, developer, personal"
