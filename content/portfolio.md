@@ -25,14 +25,14 @@ weight: 50
 <div>
 		<div>
 				<p>
-						<span style="font-style: italic; font-size: 14px;">Submitted to IEEE Systems Joural</span><br>
-						<span style="font-weight: bold">Perception of Market Sentiment: Stock Movement Prediction via Sentiment Analysis and Social Network Data</span><br>
+						<span style="font-style: italic; font-size: 14px;">Submitted to the IEEE Transactions on Neural Networks and Learning Systems</span><br>
+						<span style="font-weight: bold">Perceiving market sentiment: stock movement prediction via distant learning using social network data</span><br>
 						<span style="font-size: 14px;">Wei-Cheng Chen and Wei-Ho Chung</span><br>
 				</p>
 		</div>
 		<div>
 				<p>
-						<span style="font-style: italic; font-size: 14px;">July 2019: ECOM'19 The SIGIR 2019 Workshop on eCommerce</span><br>
+						<span style="font-style: italic; font-size: 14px;">July 2019: the ACM SIGIR 2019 Workshop on eCommerce (SIGIR eCom)</span><br>
 						<span style="font-weight: bold">PSAC: Context-based Purchase Prediction Framework via User's Sequential Actions</span><br>
 						<span style="font-size: 14px;">Wei-Cheng Chen, Chih-Yu Wang, Su-Chen Lin, Alex Ou, and Tzu-Chiang Liou</span><br>
 				</p>

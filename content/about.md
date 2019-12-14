@@ -9,7 +9,7 @@ weight: 50
 ## <u>About Me</u>
 
 <div>
-    <p> I am a <b>research engineer</b> in the Strategic Networking and Communications Lab at CITI, Academia Sinica, under the supervision of professor Chih-Yu Wang. My current research focus is on <b>recommender system</b> targeting E-commerce data. Prior to current position, I have been lucky to work with professor Wei-Ho Chung in FinTech and derivative pricing. My research interest lie primarily at the intersection of <b>user behavior analysis</b>, <b>nlp</b>, <b>ml/dl</b>, and <b>recommender system</b>. Specifically, I try to explore meaningful information for making better business decisions through learning systems.</p>
+    <p> I am currently a <b>research assistant</b> in the Strategic Networking and Communications (SNAC) Lab at CITI, Academia Sinica, under the supervision of professor Chih-Yu Wang. My current research focus is on <b>recommender system</b> targeting E-commerce data. Prior to current position, I have been lucky to work with professor Wei-Ho Chung in FinTech and derivative pricing. My research interest lie primarily at the intersection between <b>user behavior analysis</b>, <b>recommender systems</b>, <b>natural language processing</b>, and <b>and machine/deep learning</b>. Specifically, I try to build learning systems to make people’s life more convenient through perceiving users’ behavior and responding to their demands.</p>
 
     <p>My non-academic interests include traveling, movies, and piano.</p>
 </div>
@@ -18,42 +18,46 @@ weight: 50
 <div>
     <div>
         <p>
-            <span style="font-style: italic; font-size: 14px;">Feb. 2019 - Jun.2019</span><br>
-            <span style="font-weight: bold">National Taiwan University of Science and Technology</span>, Computer Science, On-the-job training<br>
-            <span style="font-size: 10px">GPA: 3.88/4.0</span>
+            <span style="font-style: italic; font-size: 14px;">Feb. 2017 - June 2019</span><br>
+            <span style="font-weight: bold">National Taiwan University of Science and Technology</span>, Continuing Education Program<br>
+            <span style="font-size: 10px">GPA (CS-related courses): 3.95/4.0</span>
         </p>
     </div>
     <div>
         <p>
-            <span style="font-style: italic; font-size: 14px;">Sep. 2018 - Jun. 2019</span><br>
-            <span style="font-weight: bold">Fu Jen Catholic University</span>, Computer Science, On-the-job training<br>
-            <span style="font-size: 10px">GPA: 4.0/4.0</span>
+            <span style="font-style: italic; font-size: 14px;">Sept. 2018 - June 2019</span><br>
+            <span style="font-weight: bold">Fu Jen Catholic University</span>, Continuing Education Program<br>
+            <span style="font-size: 10px">GPA (CS-related courses): 4.0/4.0</span>
         </p>
     </div>
     <div>
         <p>
-            <span style="font-style: italic; font-size: 14px;">Fev. 2019 - Jun. 2019</span><br>
-            <span style="font-weight: bold">National Taiwan Normal University</span>, Computer Science, On-the-job training<br>
-            <span style="font-size: 10px">GPA: 4.0/4.0</span>
+            <span style="font-style: italic; font-size: 14px;">Feb. 2019 - June 2019</span><br>
+            <span style="font-weight: bold">National Taiwan Normal University</span>, Continuing Education Program<br>
+            <span style="font-size: 10px">GPA (CS-related courses): 4.0/4.0</span>
         </p>
     </div>
     <div>
         <p>
             <span style="font-style: italic; font-size: 14px;">Sep. 2011 - Jun. 2015</span><br>
-            <span style="font-weight: bold">National Taiwan University</span>, B.S., in Economics</p>
+            <span style="font-weight: bold">National Taiwan University</span>, B.A. in Economics</p>
+            <span style="font-size: 10px">GPA: 3.10/4.3</span>
     </div>
 </div>
 
-## <u>Skills</u>
+## <u>Additional Information</u>
 <div>
     <ul>
-        <p style="font-weight:bold">Computer skills and proficiencies</p>
+        <p style="font-weight:bold">Professional Skills</p>
         <ul>
-            <li>Python, C/C++, Java, JavaScript, LaTeX, Unix/Linux, Git, Shell</li>
+            <li>Programming Languages: Python, C/C++, Java, JavaScript</li>
+            <li>Data Analytics: TensorFlow, PyTorch, Keras, Spark, NumPy, Pandas, SciPy, IPython, SQL, NLTK</li>
+            <li>Technologies: Unix/Linux, LaTeX, Git, Shell</li>
         </ul>
-        <p style="font-weight: bold">Analytics</p>
+        <p style="font-weight: bold">Extracurricular Activities</p>
         <ul>
-            <li>PyTorch, TensorFlow, Keras, Numpy, Pandas, SciPy, Spark, IPython, SQL</li>
+            <li>Cofounded NTU Collaborator, a student society providing industrial and macroeconomics skills training to students by means of teamwork projects and alumni sharing (working, analysis, and investment experiences), and was elected first President (Sept. 2013 – June 2015)</li>
+            <li>Participated in NTU Securities Research Society, a student society offering weekly lectures on investment and financial markets, and was elected Leader of Academic Affairs Team (Sept. 2012 – June 2014)</li>
         </ul>
         <p style="font-weight: bold">Selected Courses</p>
         <ul>
