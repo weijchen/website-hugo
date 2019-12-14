@@ -25,7 +25,7 @@ weight: 50
 <div>
 		<div>
 				<p>
-						<span style="font-style: italic; font-size: 14px;">Submitted to the IEEE Transactions on Neural Networks and Learning Systems</span><br>
+						<span style="font-style: italic; font-size: 14px;">Submitted to the IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</span><br>
 						<span style="font-weight: bold">Perceiving market sentiment: stock movement prediction via distant learning using social network data</span><br>
 						<span style="font-size: 14px;">Wei-Cheng Chen and Wei-Ho Chung</span><br>
 				</p>
