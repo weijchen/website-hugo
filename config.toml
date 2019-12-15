@@ -14,8 +14,8 @@ disqusShortname = "yourdiscussshortname"
 
 
 [params]
-    author = "Jimmy Chen (Wei-Cheng)"
-    info = "Data Engineer and Activist"
+    author = "Wei-Cheng Chen (Jimmy)"
+    info = "Research Assistant at SNAC lab, Academia Sinica"
     description = "Jimmy Chen's personal website"
     keywords = "blog, developer, personal"
     avatarurl = "images/weijchen.jpg"
@@ -44,16 +44,15 @@ disqusShortname = "yourdiscussshortname"
     weight = 2
     url = "https://github.com/weijchen/"
 [[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
     weight = 3
-    url = "https://twitter.com/weijchen0919/"
+    url = "https://www.linkedin.com/in/jimmy-wei-cheng-chen-ba03a2a5/"
 [[params.social]]
-    name = "Facebook"
-    icon = "fab fa-facebook fa-2x"
+    name = "Google Scholar"
+    icon = "fab fa-google-scholar fa-2x"
     weight = 4
-    url = "https://www.facebook.com/weijchen2013/"
-
+    url = "https://scholar.google.com.tw/citations?user=6nNTs7wAAAAJ&hl=zh-TW"
 
 # Menu links
 [[menu.main]]

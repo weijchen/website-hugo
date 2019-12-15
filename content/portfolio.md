@@ -48,4 +48,4 @@ weight: 50
 			</div>
 		</div>
 </div>
-## <u>Projects</u>
+<!-- ## <u>Projects</u> -->

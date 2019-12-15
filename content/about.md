@@ -9,7 +9,7 @@ weight: 50
 ## <u>About Me</u>
 
 <div>
-    <p> I am currently a <b>research assistant</b> in the Strategic Networking and Communications (SNAC) Lab at CITI, Academia Sinica, under the supervision of professor Chih-Yu Wang. My current research focus is on <b>recommender system</b> targeting E-commerce data. Prior to current position, I have been lucky to work with professor Wei-Ho Chung in FinTech and derivative pricing. My research interest lie primarily at the intersection between <b>user behavior analysis</b>, <b>recommender systems</b>, <b>natural language processing</b>, and <b>and machine/deep learning</b>. Specifically, I try to build learning systems to make people’s life more convenient through perceiving users’ behavior and responding to their demands.</p>
+    <p> I am currently a <b>research assistant</b> in the <a href='https://snaclab.citi.sinica.edu.tw/' title='SNAC lab'>Strategic Networking and Communications (SNAC) Lab at CITI, Academia Sinica</a>, under the supervision of professor <a href='http://tom.ky/'>Chih-Yu Wang</a>. My current research focus is on <b>recommender system</b> targeting E-commerce data. Prior to current position, I have been lucky to work with professor <a href='https://www.ee.nthu.edu.tw/whchung/index.html'>Wei-Ho Chung</a> in FinTech and derivative pricing. My research interest lie primarily at the intersection between <b>user behavior analysis</b>, <b>recommender systems</b>, <b>natural language processing</b>, and <b>and machine/deep learning</b>. Specifically, I try to build learning systems to make people’s life more convenient through perceiving users’ behavior and responding to their demands.</p>
 
     <p>My non-academic interests include piano, traveling, and movies.</p>
 </div>
