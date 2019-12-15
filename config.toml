@@ -50,7 +50,7 @@ disqusShortname = "yourdiscussshortname"
     url = "https://www.linkedin.com/in/jimmy-wei-cheng-chen-ba03a2a5/"
 [[params.social]]
     name = "Google Scholar"
-    icon = "fab fa-google-scholar-square fa-2x"
+    icon = "ai ai-google-scholar-square ai-2x"
     weight = 4
     url = "https://scholar.google.com.tw/citations?user=6nNTs7wAAAAJ&hl=zh-TW"
 
