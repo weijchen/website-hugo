@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "zh-tw"
-title = "weijchen"
+title = "Hi! I'm Jimmy"
 theme = "hugo-coder"
 
 paginate = 20
